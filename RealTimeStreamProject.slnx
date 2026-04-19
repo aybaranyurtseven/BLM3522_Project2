@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Cloud_Processor/Cloud_Processor.csproj" />
+  <Project Path="IoT_Simulator/IoT_Simulator.csproj" />
+</Solution>
